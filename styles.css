@@ -1,0 +1,83 @@
+body{
+  background-image: url(https://i.pinimg.com/originals/7d/9a/4f/7d9a4f19cb2b48e4437c848ef2cd0833.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  font-family: "Helvetica", sans-serif;
+  margin: 5em;
+  border:  5px dashed #716F81;
+  border-radius: 20px;
+  padding: 22px;
+}
+
+img {
+  border: 5px solid #716F81;
+  border-radius: 50%;
+  margin-left: 1em;
+}
+
+hr{
+  border-top: 15px dotted #716F81;
+}
+
+h1{
+  text-align: left;
+  font-family: "Georgia", serif;
+  font-size: 60px;
+  color: #11324D;
+}
+
+table{
+  margin-bottom: 3em;
+}
+
+.table1{
+    background-image: linear-gradient(60deg, #FCD1D1, #D1D9D9);
+}
+
+p{
+  font-family: "Courier New", monospace;
+  text-align: justify;
+  font: bolder;
+  margin: 1em 2em;
+  line-height: 200%; 
+  width: 85%;
+}
+
+h3{
+  font-size: 40px;
+  font-family: "Georgia", serif;
+  color: white;
+  background-image: url(https://i.pinimg.com/originals/2e/59/a4/2e59a45889aa828e0e0da51691971655.jpg);
+  text-align: center;
+}
+
+UL { list-style-position: inside; 
+  margin-bottom: 3em;
+  margin-left: 2em;
+  font-size: 20px;
+  line-height: 200%;
+}
+
+th, td {
+  padding: 15px;
+  text-align: center;
+  margin-left: 2em;
+  font-family: "Courier New", monospace;
+}
+
+th {
+  background-color: #716F81;
+  color: white;
+  font-family: "Helvetica", sans-serif;
+}
+
+.table2{
+  margin-left: 13em;
+  background-image: url(https://pbs.twimg.com/media/DwdihCDVAAECSMJ.jpg);
+}
+
+.table3{
+  margin-left: 22em;
+  background-image: url(https://pbs.twimg.com/media/DwdihCDVAAECSMJ.jpg);
+}

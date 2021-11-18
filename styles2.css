@@ -1,0 +1,29 @@
+body{
+	background-image: url(https://wallpapercave.com/wp/wp6203652.png);
+	text-align: center;
+	margin-top: 11em;
+	margin-left: -5 em;
+}
+
+h3{
+	font-size: 70px;
+	font-family: "Georgia", serif;
+	color: #FEF5ED;
+}
+
+ol{
+	font-family: "Courier New", monospace;
+	font-size: 25px;
+    margin:0px 0;
+    padding:0;
+    list-style: decimal-leading-zero inside none;
+}
+
+ol li 
+{
+    margin: 0px;
+    padding: 0px;
+    text-indent: -2.2em;
+    margin-left: 3.4em;
+    text-align: center;
+}
